@@ -1,0 +1,5 @@
+admin
+adm
+user
+123456
+msfadmin
